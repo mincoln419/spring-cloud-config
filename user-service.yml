@@ -9,7 +9,7 @@ token:
   expiration_time: 864000000
 
 gateway:
-  ip: 192.168.200.165
+  ip: 172.18.0.9
 
 order-service:
   url: http://ORDER-SERVICE/order-service/%s/orders
