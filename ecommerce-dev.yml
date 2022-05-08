@@ -3,4 +3,4 @@ token:
   secret: my_token_dev_#2
 
 gateway:
-  ip: 192.168.200.165
+  ip: 172.18.0.9
