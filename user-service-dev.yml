@@ -10,4 +10,4 @@ token:
   secret: user_service_native
 
 gateway:
-  ip: 192.168.200.165
+  ip: 172.18.0.9
