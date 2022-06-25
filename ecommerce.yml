@@ -2,4 +2,4 @@ token:
   expiration_time: 864000000
 
 gateway:
-  ip: 172.18.0.5
+  ip: localhost
